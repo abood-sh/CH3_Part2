@@ -45,8 +45,7 @@ import javafx.util.Callback;
      * @param args the command line arguments
      */
  public class Student_Entry extends Application {
-    //Ahmed => 1234
-    //Ali => 123456
+
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("login page .. ");
